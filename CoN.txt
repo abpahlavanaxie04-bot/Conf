@@ -1,4 +1,3 @@
-
 trojan://%27%2542vQ%21e1u%24%3C@ray.ramiaxie.com.tr:443?security=tls&type=ws&host=ray.ramiaxie.com.tr&path=%2FeyJqdW5rIjoiTXdLd2prekQybGtKIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&sni=Ray.raMiaXIE.coM.Tr&fp=chrome&alpn=http/1.1#T1
 trojan://%27%2542vQ%21e1u%24%3C@www.speedtest.net:443?security=tls&type=ws&host=ray.ramiaxie.com.tr&path=%2FeyJqdW5rIjoiUWdPcVNhZ01yMFhQRGlSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&sni=rAY.RAmIAXiE.com.Tr&fp=chrome&alpn=http/1.1#T2
 https://ray.ramiaxie.com.tr/sub/normal/M1nU-wa4%2BfmlLuwb?app=xray#%F0%9F%92%A6%20BPB%20Normal
